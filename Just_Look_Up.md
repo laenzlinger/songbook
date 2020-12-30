@@ -1,7 +1,6 @@
 # Just Look Up
 
 # Verse
-
       [E]                [E7]            [A]
 Every life must have its sorrows and its pain
        [Am/C]
@@ -19,7 +18,6 @@ Just look up
 
 
 # Chorus
-
 [E7]             [A]                     [E]
 Just look up when storm clouds block the sun
           [E7]
@@ -38,7 +36,6 @@ There's a rainbow waiting for you
 Just look up
 
 # Verse
-
          [E]        [E7]                 [A]
 For each promise of forever, there'll be times
            [Am/C]
@@ -57,7 +54,6 @@ Just look up
 # Chorus
 
 # Verse
-
          [E]        [E7]                 [A]
 When you've lost that light that guides you from despair
       [Am/C]
